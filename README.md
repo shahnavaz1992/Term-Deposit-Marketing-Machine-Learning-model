@@ -11,7 +11,7 @@ After running the model, we achieved 79% accuracy and 0.83 recall, indicating th
 At the end, the clustering was optimized using the elbow method, and the data were grouped into four clusters to identify potential subscribers.
 #### For more details, see the notebook: **Term_Deposit_Marketing-virtualenv.ipynb**      
 > The following image represents the last missed plot in the notebook:
-[Screenshot](https://github.com/shahnavaz1992/aV0n6Eo8QXt5bwWX/blob/main/clustring_plot.png)
+[Screenshot](https://github.com/shahnavaz1992/Term-Deposit-Marketing-Machine-Learning-model/blob/main/clustring_plot.png)
 ### Below is also a dashboard of the data represented by Tableau
 [Dashboard](https://public.tableau.com/app/profile/farid4750/viz/Book1_17249023540900/Dashboard1?publish=yes)
 ## Requirements
